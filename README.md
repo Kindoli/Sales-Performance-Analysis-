@@ -23,7 +23,7 @@ Key columns:
 
 - Date
 
--City 
+- City 
 
 - Product Name
 
